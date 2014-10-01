@@ -1,0 +1,14 @@
+AIDE DE TETRIS
+
+touches :
+
+	4 : gauche
+	6 : droite
+	2 : bas (descente rapide)
+	5 : rotation
+
+	p : pause
+	t : triche ;-)
+
+	+ : niveau supérieur
+	- : niveau inférieur
